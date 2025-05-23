@@ -49,6 +49,16 @@ https://n3o-coding-task-react.azurewebsites.net/swagger/index.html
 
 You can use the /reset endpoint to reset the in-memory database.
 
+### Evaluation
+As part of the evaluation, we will be focusing on the following aspects:
+
+- Form Handling / Validation
+- Code quality and project structure
+- Attention to detail
+- UI/UX implementation and responsiveness
+- Problem-solving approach
+- Readability and maintainability of your code
+
 ### Submitting
 
 Please share your solution as a zip file with a working apk so we can test your solution on Android.
